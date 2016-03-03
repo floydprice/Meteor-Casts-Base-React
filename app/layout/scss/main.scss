@@ -1,0 +1,9 @@
+@import '{reywood:bootstrap3-sass}/bootstrap';
+
+@import "components/layout";
+@import "components/header";
+@import "components/content_card";
+
+body{
+  background-color: #e6e6e6;
+}
